@@ -1,5 +1,5 @@
 name='Andrey'
 age=38
-new_age=2
-print(age+new_age)
+age=age+1
+print(age)
 Is_Student:True
