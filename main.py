@@ -10,19 +10,8 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print("Hello World")
-
-# 1st program
-print(9**0.5*5)
-# 2st program
-print(9.99>9.98 and 1000!=1001)
-#3st program
-print(2*2+2)
-print(2*(2+2))
-print((2*2+2) == (2*(2+2)))
-#4st program
-print(int(float('123.456') * 10) % 10)
+print('Hi, PyCharm')
+x = 43
+y = 32
+print(x * y)
+print("End line")
